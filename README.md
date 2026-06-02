@@ -9,7 +9,7 @@ A dark-themed, responsive analytics dashboard built with pure HTML, CSS, and Van
 ![License](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)
 
 ## Live Demo
-
+ (https://shivamssingh07.github.io/Global-E-Commerce-Sales-Analytics/)
 - Placeholder: [https://github.com/shivamssingh07](https://github.com/shivamssingh07)
 - To publish on GitHub Pages:
   1. Push this repository to GitHub.
